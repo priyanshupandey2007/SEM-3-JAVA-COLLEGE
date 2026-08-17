@@ -11,19 +11,19 @@ class class1 {
          int a  = sc.nextInt();
          System.out.println(a);
 
-//        System.out.print("Enter a number: ");
-//        int n = sc.nextInt();
-//
-//        System.out.println("Ascending Order:");
-//        for (int i = 1; i <= n; i++) {
-//            System.out.print(i + " ");
-//        }
-//
-//
-//        System.out.println("Descending Order:");
-//        for (int i = n; i >= 1; i--) {
-//            System.out.print(i + " ");
-//        }
+        System.out.print("Enter a number: ");
+        int n = sc.nextInt();
+
+        System.out.println("Ascending Order:");
+        for (int i = 1; i <= n; i++) {
+            System.out.print(i + " ");
+        }
+
+
+        System.out.println("Descending Order:");
+        for (int i = n; i >= 1; i--) {
+            System.out.print(i + " ");
+        }
 
 
     }
